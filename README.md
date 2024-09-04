@@ -1,5 +1,8 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Presentation on platforms
 
+More tk.
+
+## Running the presentation
 To start the slide show:
 
 - `npm install`
