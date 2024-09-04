@@ -35,7 +35,7 @@ jobs:
         run: nr build --base /${{github.event.repository.name}}/
 
       - name: Export
-        run: slidev export
+        run: nr export
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
