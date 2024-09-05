@@ -164,6 +164,11 @@ layout: default
 <img src="/stakeholders.png" width="100%" class="align-center">
 </center>
 
+---
+layout: section
+---
+# Some tools for stakeholder management
+
 
 ---
 layout: default
@@ -195,10 +200,10 @@ layout: default
 
 # Stakeholder management
 
-Link top-down to your work
+Link top-down to your work, find a way to prioritize
+
 - Objectives and Key Results (OKR) - but beware.
 - Cost of Delay Devided by Duration (CD3) or similar
-
 
 <div class="flex justify-center gap-4">
   <img src="/cd3.png" class="w-1/2" />
