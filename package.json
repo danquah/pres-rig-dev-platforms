@@ -5,7 +5,8 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export --output dist/presentation"
+    "export": "slidev export --output dist/presentation",
+    "export-pptx": "slidev export --format pptx --output dist/presentation"
   },
   "dependencies": {
     "@slidev/cli": "^0.49.29",

@@ -34,8 +34,11 @@ jobs:
       - name: Build
         run: nr build --base /${{github.event.repository.name}}/
 
-      - name: Export
+      - name: Export PDF
         run: nr export
+
+      - name: Export PPTX
+        run: nr export-pptx
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
