@@ -6,11 +6,12 @@ drawings:
   persist: false
 mdc: true
 layout: cover
+title: Navigating the needs and musts of platform engineering
 level:
 ---
-
-# Navigating the needs and musts of platform engineering
-
+<h1 class="bg-gray-500 bg-opacity-40 w-full text-center p-4">
+Navigating the needs and musts of platform engineering
+</h1>
 ---
 layout: image-left
 backgroundSize: auto 90%
@@ -182,10 +183,10 @@ layout: default
 # Stakeholder management
 
 Involve your end-users
-- Chaos Engineering, involve them in the early product.
+- Demos, show end-users your things **early**.
 - User Groups, listen to their needs.
-- Workshops, let them get hands on
-
+- Workshops, let them get hands on.
+- Chaos Engineering / Product tests, involve them in the early in the product development.
 
 
 ---
@@ -198,6 +199,11 @@ Link top-down to your work
 - Objectives and Key Results (OKR) - but beware.
 - Cost of Delay Devided by Duration (CD3) or similar
 
+
+<div class="flex justify-center gap-4">
+  <img src="/cd3.png" class="w-1/2" />
+  <img src="/cd3-table.png" class="w-1/2" />
+</div>
 
 ---
 layout: two-cols
@@ -219,7 +225,7 @@ What did we (hopefully) learn
 layout: statement
 backgroundSize: 90% auto
 ---
-# Do I need a product manager?
+# Is product management important?
 
 yes
 <center>
@@ -233,7 +239,7 @@ yes
 layout: statement
 backgroundSize: 90% auto
 ---
-# Is it worth bothering with users?
+# Should we care about our users?
 
 yes
 <center>
